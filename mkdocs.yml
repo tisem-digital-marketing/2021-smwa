@@ -2,4 +2,7 @@ site_name: Programming Practices for Research in Economics
 pages:
 - Welcome: index.md
 - Schedule: schedule.md
+- Material: material.md
+- About: about.md
+- Acknowledgements: acknowledgements.md
 theme: yeti
