@@ -5,4 +5,4 @@ pages:
 - Material: material.md
 - About: about.md
 - Acknowledgements: acknowledgements.md
-theme: yeti
+theme: material
