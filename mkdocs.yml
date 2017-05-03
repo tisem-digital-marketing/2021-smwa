@@ -1,8 +1,8 @@
 site_name: Programming Practices for Research in Economics
 pages:
-- Welcome: index.md
+-  Course Home Page: : index.md
 - Schedule: schedule.md
-- Material: material.md
-- About: about.md
+- Course Material: material.md
+- About the Instructors: about.md
 - Acknowledgements: acknowledgements.md
 theme: material
