@@ -1,6 +1,6 @@
 # About Us
 
-The course is run by 3 Advanced PhD Students in the Department of Economics and the team leader of the Deparment's IT engineering group. The current group designed the inaugural edition of the course in 2016.
+The course is run by 3 PhD Students in the Department of Economics and the team leader of the Deparment's IT engineering group. The current group designed the inaugural edition of the course in 2016.
 
 ### Lachlan Deer
 

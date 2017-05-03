@@ -2,7 +2,7 @@
 
 This is the source repository for the course website for Programming Practices for Research in Economics.
 
-The website is currently hosted [here](https://lachlandeer.github.io)
+The website is currently hosted [here](https://lachlandeer.github.io/prog-course-uzh)
 
 #### Author information (the authors)
 
