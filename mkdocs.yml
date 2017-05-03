@@ -5,4 +5,5 @@ pages:
 - Course Material: material.md
 - About the Instructors: about.md
 - Acknowledgements: acknowledgements.md
+- License: license.md
 theme: material
