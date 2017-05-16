@@ -36,7 +36,7 @@ This year, Julian leads the following modules:
 
 ### Max Winkler
 
-[Max](http://www.econ.uzh.ch/en/people/graduatestudents/winkler.html) is a 3rd year Doctoral Candidate in the Department of Economics. His research interests lie at the intersection of economic history, economic development and programme evaluation.
+[Max](http://www.econ.uzh.ch/en/people/graduatestudents/winkler.html) is a 3rd year Doctoral Candidate in the Department of Economics. His research interests lie at the intersection of cultural economics, behavioural economics and development economics..
 
 This year, Max leads the following modules:
 
