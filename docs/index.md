@@ -4,7 +4,11 @@ Welcome to the course website for Programming Practices for Research in Economic
 
 ## Register Your Interest!
 
-If you are interested in attending the course (and a UZH PhD Student) please fill out [this google form](https://goo.gl/forms/CwmyxFMXUZdPRCGB3)
+The registration period for the Fall 2017 period has closed.
+
+If you are a registered PhD Student in the UZH Econ PhD program, or joining the Department as a Research Assistant and would still like to join, [email us](programming@econ.uzh.ch) to discuss potential options.
+
+<!-- If you are interested in attending the course (and a UZH PhD Student) please fill out [this google form](https://goo.gl/forms/CwmyxFMXUZdPRCGB3) -->
 
 ## Important Information
 
