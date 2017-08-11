@@ -10,7 +10,7 @@
     The topic schedule for each day can be found below.
 
 !!! bug "Social Event"
-    *Social Event:* We will go for drinks on September 8th at 18.00. *Location: TBA*
+    We will go for drinks on September 8th at 18.00. *Location: TBA*
 
 ### Week 1
 
