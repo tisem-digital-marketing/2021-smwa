@@ -7,3 +7,5 @@ pages:
 - Acknowledgements: acknowledgements.md
 - License: license.md
 theme: material
+markdown_extensions:
+  - admonition
