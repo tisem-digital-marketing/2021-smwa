@@ -1,5 +1,8 @@
 # Course Material
-## Week 1
+
+Course Material, or links to the Department of Economics' GitLab page will be posted here in due course.
+
+<!-- ## Week 1
 * Introduction
 * Using the terminal
 * Version Control with Git
@@ -8,7 +11,7 @@
 ## Week 2
 
 * Python - NumPy
-* Python -SciPy
+* Python - SciPy
 * Python - Pandas
 * Python - Plotting
 * Python - Linear Models
@@ -24,7 +27,7 @@
 * R - GIS Tools
 * Python - Webscraping
 * SQL - Introduction
-* Build Tools - Snakemake
+* Build Tools - Snakemake -->
 
 
 <!-- # icon store
