@@ -32,6 +32,6 @@ The schedule for each week can be found below.
 
 |            | Monday          |       Tuesday    |        Wednesday |       Thursday   |       Friday  |
 | -----------| ----------------| -----------------| -----------------| ---------------- |---------------|
-| Morning    | R: Econometrics |  Web Scraping     |  GIS data in R  |  Build Tools     | Clean Code    |
-| Afternoon  | R: Econometrics |  Web Scraping     |  Databases: SQL |  Build Tools     | Code Optimiz. |
+| Morning    | R: Econometrics | GIS data in R    |  Web Scraping    |  Build Tools     | Clean Code    |
+| Afternoon  | R: Econometrics |  Web Scraping    |  Databases: SQL  |  Build Tools     | Code Optimiz. |
 | *Room*     |    *RAK-E-6*    | *RAK-E-6*        |  *RAK-E-6*       | *RAA-E-08*       | *SOF-E-07*    |
