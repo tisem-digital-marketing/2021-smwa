@@ -5,7 +5,8 @@ Welcome to the course website for Programming Practices for Research in Economic
 
 ## Important Information
 
-A *preliminary* course syllabus is now available [here](assets/pp4rs-syllabus.pdf)
+A course syllabus is now available [here](assets/pp4rs-syllabus.pdf).
+We don't anticpate to deviate from the [Schedule](./schedule) too much - follow the [Announcements](./announcments) page for updates.
 
 !!! summary
 
@@ -26,3 +27,9 @@ The 2017 installation guide is available [here](https://lachlandeer.github.io/pr
 
     * When: Friday, August 25th, 9.30am - 12.30am (tentative)
     * Where: SOF-E-09
+
+## Slack Chat [<img src="https://maxcdn.icons8.com/Share/icon/Logos//slack1600.png" height="30" />](https://pp4rs.slack.com/)
+
+Throughout the course we will post useful tidbits of information, and answer questions that are slightly off topic in a web-chat environment called Slack. You have received an invitation to join this group via email.
+
+Click [here](https://pp4rs.slack.com/), or on the icon above, to be redirected to the Slack login page for our course.
