@@ -19,7 +19,7 @@ We don't anticipate to deviate from the [Schedule](./schedule) too much - follow
 ## Software Installation Guide
 
 You will need to install the necessary software on to your laptop to bring to the class each day so you can code along with us.
-The 2017 installation guide is available [here](https://pp4rs.github.io/installatiion-guide/).
+The 2017 installation guide is available [here](https://pp4rs.github.io/installation-guide/).
 
 !!! tip
     Please try and install all the software before the course begins.
