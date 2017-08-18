@@ -2,14 +2,14 @@
 
 This is the source repository for the course website for Programming Practices for Research in Economics.
 
-The website is currently hosted [here](https://lachlandeer.github.io/prog-course-uzh)
+The website is currently hosted [here](https://pp4rs.github.io/2017-uzh)
 
 #### Author information (the authors)
 
 * Lachlan Deer: @lachlandeer
-* Adrian Etter: @aetter
+* Adrian Etter: @eydrian
 * Julian Langer: @julianlanger
-* Max Winkler: @mwinkler
+* Max Winkler: @m-winkler
 
 Alternatively, email us at: programming 'AT' econ 'DOT' uzh 'DOT' ch
 
@@ -31,7 +31,7 @@ mkdocs serve
 ```
 * Post the site to github pages using:
 ```{.bash, id:"j29ie3c7"}
-mkdocs gh-deploy -r https://github.com/lachlandeer/prog-course-uzh
+mkdocs gh-deploy
 ```
 
 
