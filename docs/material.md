@@ -1,6 +1,6 @@
 # Course Material
 
-Course Material, or links to the Department of Economics' GitLab page will be posted here in due course.
+Course Material, or links to the relevant GitHub repository will be posted here in due course.
 
 <!-- ## Week 1
 * Introduction
