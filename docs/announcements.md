@@ -2,7 +2,7 @@
 
 Important announcements will be posted here to avoid our inboxes getting clogged up.
 
-If you have questions - direct them to us via [Slack](https://pp4rs.slack.com). There's a 'Direct Message' feature so you can contact us individually as needed, but where possible pose messages to a channel that all participants can see.
+If you have questions - direct them to us via [Slack](https://pp4rs.slack.com). There's a 'Direct Message' feature so you can contact us individually as needed, but where possible post messages to a channel that all participants can see.
 
 !!! note "Welcome Message"
     *Date Posted: 2017-08-18*
