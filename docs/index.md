@@ -6,7 +6,7 @@ Welcome to the course website for Programming Practices for Research in Economic
 ## Important Information
 
 A course syllabus is now available [here](assets/pp4rs-syllabus.pdf).
-We don't anticipate to deviate from the [Schedule](./schedule) too much - follow the [Announcements](./announcments) page for updates.
+We don't anticipate to deviate from the [Schedule](./schedule) too much - follow the [Announcements](./announcements) page for updates.
 
 !!! summary
 
