@@ -4,6 +4,21 @@ Important announcements will be posted here to avoid our inboxes getting clogged
 
 If you have questions - direct them to us via [Slack](https://pp4rs.slack.com). There's a 'Direct Message' feature so you can contact us individually as needed, but where possible post messages to a channel that all participants can see.
 
+!!! bug "Extra Packages for R"
+    *Date Posted: 2017-08-22*
+
+    We added some additional packages for the R sessions.
+
+    **If you have already completed the installation guide**: open RStudio and enter the following into the console and press `Return`:
+
+    ```r
+    extra_packages <- c("multiwayvcov", "RSQLite", "dbplyr")
+    install.packages(extra_packages)
+    ```
+
+    **If you have not yet completed the installation guide**: we have added these packages to the instructions, so you can follow it as is.
+
+
 !!! note "Welcome Message"
     *Date Posted: 2017-08-18*
 
