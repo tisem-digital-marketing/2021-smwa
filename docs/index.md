@@ -16,6 +16,12 @@ We don't anticipate to deviate from the [Schedule](./schedule) too much - follow
     * Location: See [Schedule](./schedule)
     * Contact: programming@econ.uzh.ch
 
+## [Pre-Course Survey](https://goo.gl/forms/EER5ThZwazBzDvxi2)
+
+Please fill out the pre-course survey before the course begins. You can find it [here](https://goo.gl/forms/EER5ThZwazBzDvxi2).
+
+
+
 ## Software Installation Guide
 
 You will need to install the necessary software on to your laptop to bring to the class each day so you can code along with us.
