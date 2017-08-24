@@ -11,7 +11,7 @@ If you have questions - direct them to us via [Slack](https://pp4rs.slack.com). 
 
     **If you have already completed the installation guide**: open RStudio and enter the following into the console and press `Return`:
 
-    ```r
+    ```r linenums="1"
     extra_packages <- c("multiwayvcov", "RSQLite", "dbplyr")
     install.packages(extra_packages)
     ```
