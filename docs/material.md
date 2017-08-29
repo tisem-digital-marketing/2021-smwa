@@ -9,7 +9,7 @@ All our materials are located in a GitHub repository, located [here](https://git
 Lachlan has put together some (relatively) short videos that review some information from the sessions:
 
 *   [Review of Terminal Commands - Part 1](https://asciinema.org/a/135337)
-*   [Review of Terminal Commands - Part 2](https://asciinema.org/a/22LOkjzigHx4UPuJbusfkdeJo)
+*   [Review of Terminal Commands - Part 2](https://asciinema.org/a/22LOkjzigHx4UPuJbusfkdeJo) - warning this is *quite long*
 *   [Forking a Github Repository and maintaining an upstream connection](https://asciinema.org/a/135325)
 
 
