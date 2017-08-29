@@ -1,8 +1,8 @@
 # Course Material
 
-## [GitHub repository](https://github.com/pp4rs/2017-course-material)
+## [GitHub repository](https://github.com/pp4rs/2017-uzh-course-material)
 
-All our materials are located in a GitHub repository, located [here](https://github.com/pp4rs/2017-course-material).
+All our materials are located in a GitHub repository, located [here](https://github.com/pp4rs/2017-uzh-course-material).
 
 ## Asciinema Files
 
