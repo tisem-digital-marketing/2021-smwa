@@ -1,6 +1,16 @@
 # Course Material
 
-Course Material, or links to the relevant GitHub repository will be posted here in due course.
+## [GitHub repository](https://github.com/pp4rs/2017-course-material)
+
+All our materials are located in a GitHub repository, located [here](https://github.com/pp4rs/2017-course-material).
+
+## Asciinema Files
+
+Lachlan has put together some (relatively) short videos that review some information from the sessions:
+
+*   [Review of Terminal Commands - Part 1](https://asciinema.org/a/135337)
+*   [Forking a Github Repository and maintaining an upstream connection](https://asciinema.org/a/135325)
+
 
 <!-- ## Week 1
 * Introduction
