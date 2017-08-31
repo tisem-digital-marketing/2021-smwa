@@ -4,6 +4,13 @@ Important announcements will be posted here to avoid our inboxes getting clogged
 
 If you have questions - direct them to us via [Slack](https://pp4rs.slack.com). There's a 'Direct Message' feature so you can contact us individually as needed, but where possible post messages to a channel that all participants can see.
 
+!!! bug "Room re-allocation"
+    *Date Posted: 2017-08-31*
+
+    It seems we are not important enoght in the University system, so they double booked us.
+
+    Today, 31 August, we are in SOF-E-17 instead, which is the ground floor of the Department of Economics.
+
 !!! bug "Extra Packages for R"
     *Date Posted: 2017-08-22*
 
