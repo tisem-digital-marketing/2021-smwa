@@ -7,7 +7,7 @@ If you have questions - direct them to us via [Slack](https://pp4rs.slack.com). 
 !!! bug "Room re-allocation"
     *Date Posted: 2017-08-31*
 
-    It seems we are not important enoght in the University system, so they double booked us.
+    It seems we are not important enough in the University system, so they double booked us.
 
     Today, 31 August, we are in SOF-E-17 instead, which is the ground floor of the Department of Economics.
 
