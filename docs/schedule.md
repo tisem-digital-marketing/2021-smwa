@@ -24,7 +24,7 @@
 |:----------|:-------------|:----------------|:----------------|:-------------|:-------------|
 | Morning   | Introduction | Version Control | Version Control | Basic Python | Basic Python |
 | Afternoon | Terminal     | Version Control | Version Control | Basic Python | Basic Python |
-| *Room*    | *RAK-E-6*    | *RAK-E-6*       | *RAK-E-6*       | *RAA-E-08*   | *SOF-E-07*   |
+| *Room*    | *RAK-E-6*    | *RAK-E-6*       | *RAK-E-6*       | *SOF-E-17*   | *SOF-E-07*   |
 
 
 ### Week 2
@@ -33,7 +33,7 @@
 |:----------|:--------------|:----------------|:----------|:---------------|:------------|
 | Morning   | Python: NumPy | Python: Pandas  | R: Basics | R: Basics      | R: Plotting |
 | Afternoon | Python: SciPy | Python: Metrics | R: knitr  | R: Data Analy. | R: Advanced |
-| *Room*    | *RAK-E-6*     | *RAK-E-6*       | *RAK-E-6* | *RAA-E-08*     | *SOF-E-07*  |
+| *Room*    | *RAK-E-6*     | *RAK-E-6*       | *RAK-E-6* | *RAK-E-6*     | *SOF-E-07*  |
 
 
 ### Week 3

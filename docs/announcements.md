@@ -4,6 +4,13 @@ Important announcements will be posted here to avoid our inboxes getting clogged
 
 If you have questions - direct them to us via [Slack](https://pp4rs.slack.com). There's a 'Direct Message' feature so you can contact us individually as needed, but where possible post messages to a channel that all participants can see.
 
+!!! bug "Ch-Ch-Changes in the Room allocation"
+    *Date Posted: 2017-08-31*
+
+    We have again been moved for the Thursday class.
+
+    On Thursday, September 7th we will again be in **RAK-E-6.**
+
 !!! bug "Room re-allocation"
     *Date Posted: 2017-08-31*
 
