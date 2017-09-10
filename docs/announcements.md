@@ -4,6 +4,12 @@ Important announcements will be posted here to avoid our inboxes getting clogged
 
 If you have questions - direct them to us via [Slack](https://pp4rs.slack.com). There's a 'Direct Message' feature so you can contact us individually as needed, but where possible post messages to a channel that all participants can see.
 
+!!! note "Knabenschiessen"
+    *Date Posted: 2017-09-10*
+
+    We will teach Monday afternoon through Knabenschiessen until 1700.
+    Lunch may be hard to source, we may decide to order as a larger group.
+
 !!! bug "Ch-Ch-Changes in the Room allocation"
     *Date Posted: 2017-08-31*
 
