@@ -1,15 +1,11 @@
-# ReadMe Info for pp4rs Course Website
+# Course Website: Programming Practices for Research Students, 2017-UZH
 
-This is the source repository for the course website for Programming Practices for Research in Economics.
+## Meta-Information
 
-The website is currently hosted [here](https://pp4rs.github.io/2017-uzh)
-
-#### Author information (the authors)
-
-* Lachlan Deer: @lachlandeer
-* Adrian Etter: @eydrian
-* Julian Langer: @julianlanger
-* Max Winkler: @m-winkler
+*   Module Maintainer: Lachlan Deer (`@lachlandeer`)
+*   Course: [Programming Practices for Research in Economics](https://github.com/pp4rs)
+*   Institute: Dept of Economics, Uni Zurich
+*   Current Version: [Fall 2017 edition](https://pp4rs.github.io/2017-uzh)
 
 Alternatively, email us at: programming 'AT' econ 'DOT' uzh 'DOT' ch
 
