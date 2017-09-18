@@ -25,7 +25,10 @@ Please fill out the pre-course survey before the course begins. You can find it 
 ## Software Installation Guide
 
 You will need to install the necessary software on to your laptop to bring to the class each day so you can code along with us.
-The 2017 installation guide is available [here](https://pp4rs.github.io/installation-guide/).
+
+*   An archived version of the installation guide we used for the 2017 edition is available [here](https://pp4rs.github.io/2017-uzh-installation-guide/).
+*   The most recent version of the installation guide is [here](https://pp4rs.github.io/installation-guide/), but it may have evolved substantially since the course ran.
+
 
 !!! tip
     Please try and install all the software before the course begins.
