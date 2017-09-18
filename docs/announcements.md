@@ -4,6 +4,46 @@ Important announcements will be posted here to avoid our inboxes getting clogged
 
 If you have questions - direct them to us via [Slack](https://pp4rs.slack.com). There's a 'Direct Message' feature so you can contact us individually as needed, but where possible post messages to a channel that all participants can see.
 
+<!-- !!! note "Student Assignments"
+    *Date Posted: 2017-09-18*
+
+    Some people have asked for more detail about the course assignment:
+
+    * Due date: Friday, October 20 at 23:59. (We gave you an extra week)
+    * Submission format: Invite @lachlandeer to collaborate on your GitHub repository by the due date.
+        * This means, we expect well version controlled work.
+        * Tag your final submission using the following git command `git tag -a v1.0 -m "submitted version"`
+        * You must have a README.md in the main directory with instructions on how we can build the assignment.
+    * Explictly document somewhere what packages we need to install so that your assignment runs on our machine with no issues.
+    * Your assignment must execute with either:
+        * `snakemake all` (preferred)
+        * Pressing `Run all` or `Knit` at *most* 5 times (5 notebooks), that each cannot be too long.
+            * Make it clear which order they should run in your README.md. Import functions you write into the notebook rather than clogging them up with a lot of functions.
+            * If you want to run knitr or your notebooks from snakemake, contact @lachlandeer for some code to get it to work
+    * Discuss with one of us your proposed assignment before you start
+        * We can evaluate whether it is do-able within the time frame
+        * Don't try and be too fancy, it's more important that it works
+    * To pass the course:
+        *  Your code must build without errors (unless we find something really weird, then we will reach out to you)
+        * Must be version controlled
+        * Inputs and outputs must be in separate folders
+        * There must be a short writeup of the results you obtain
+    * Ask us for help as needed. We rather a simple assignment that builds first time than something complicated that throws us error messages -->
+
+!!! note "We are done!"
+    *Date Posted: 2017-09-18*
+
+    The 2017 edition is now over. Thanks to all who attended, and the rest of the instructional team who made it a success.
+    Some important pointers:
+
+    * An archived version of the installation guide is permanently available [here](https://pp4rs.github.io/2017-uzh-installation-guide/).
+    * An archived course syllabus is [here](./assets/pp4rs-syllabus)
+    * This website, and the course materials repo will remain indefintitely.
+    * The course material repo may evolve some more over the next week or so as we upload final versions of some files. Use your `git pull`-ing powers to check you have the latest files.
+
+    See you around!
+
+    Lachlan
 
 !!! note "Schedule Updates"
     *Date Posted: 2017-09-10*
