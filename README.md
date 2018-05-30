@@ -30,6 +30,10 @@ mkdocs serve
 mkdocs gh-deploy
 ```
 
+## Want to Contribute?
+
+* See the contributing guide [here](CONTRIBUTING.md).
+* By contributing you agree to abide by the [Code of Conduct](CONDUCT.md)
 
 ## License
 
