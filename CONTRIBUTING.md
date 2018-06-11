@@ -32,7 +32,7 @@ create a new branch for each significant change being made.
 3.  Navigate to the file(s) you wish to change within the new branches and make revisions as required.
 4.  Commit all changed files within the appropriate branches.
 5.  Create individual pull requests from each of your changed branches
-to the `gh-pages` branch within the originating repository.
+to the `master` branch within the originating repository.
 6.  If you receive feedback, make changes using your issue-specific branches of the forked
 repository and the pull requests will update automatically.
 7.  Repeat as needed until all feedback has been addressed.
