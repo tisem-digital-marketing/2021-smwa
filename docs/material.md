@@ -1,17 +1,10 @@
 # Course Material
 
-## [GitHub repository](https://github.com/pp4rs/2017-uzh-course-material)
+## [GitHub repository](YOUR_LINK)
 
-All our materials are located in a GitHub repository, located [here](https://github.com/pp4rs/2017-uzh-course-material).
+All our materials are located in a GitHub repository, located [here](YOUR_LINK).
 
-## Asciinema Files
-
-Lachlan has put together some (relatively) short videos that review some information from the sessions:
-
-*   [Review of Terminal Commands - Part 1](https://asciinema.org/a/135337)
-*   [Review of Terminal Commands - Part 2](https://asciinema.org/a/22LOkjzigHx4UPuJbusfkdeJo) - warning this is *quite long*
-*   [Forking a Github Repository and maintaining an upstream connection](https://asciinema.org/a/135325)
-
+<!-- UNTIL YOU POST STUFF, HAVE A SCHEDULE LIKE BELOW -->
 
 <!-- ## Week 1
 * Introduction
