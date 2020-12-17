@@ -1,6 +1,6 @@
-Lesson: 2017-uzh
-Title: 2017 Uni Zurich Course Homepage
-Version: 2017.1.0
+Lesson: 2021-spring
+Title: 2021 Research in Social Media Homepage
+Version: 2021.0.1
 Authors: person("Lachlan", "Deer", email = "lachlan.deer@gmail.com", role = c("aut", "cre"))
 Maintainer: Lachlan Deer <lachlan.deer@gmail.com>
 Description: Course Homepage. Built using `Mkdocs.`

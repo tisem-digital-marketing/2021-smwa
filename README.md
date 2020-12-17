@@ -1,13 +1,13 @@
-# Course Website: Programming Practices for Research Students, YEAR-INSTITUTE
+# Course Website: Research in Social Media, 2021-TiSEM
 
 ## Meta-Information
 
-*   Module Maintainer: YOURNAME (`YOUR_GH_NAME`)
-*   Course: [Programming Practices for Research in Economics](https://pp4rs.github.io)
-*   Institute: YOUR DEPARTMENT
-*   Current Version: [YOUR edition](https://pp4rs.github.io/YOUR_REPO)
+*   Module Maintainer: Lachlan Deer (`@lachlandeer`)
+*   Course: [Research in Social Media](https://tisem-social-media.github.io)
+*   Institute: TiSEM
+*   Current Version: [2021](https://tisem-social-media.github.io/2021-spring)
 
-Alternatively, email us at: programming 'AT' econ 'DOT' uzh 'DOT' ch
+Alternatively, email us at: tisem_social_media 'AT' gmail 'DOT' com
 
 ## Building the Site
 
@@ -45,7 +45,7 @@ All materials are licensed under a Creative Commons CC-BY-NC-SA license. The lic
 The suggested citation for the course materials is:
 
 ```
-Ulrich Bergmann, Lachlan Deer, Adran Etter, Julian Langer, Ursina Schaede, Dora Simon, Max Winkler, Carlo Zanella & Christian Zund, 2018, Programming Practices for Research in Economics, University of Zurich
+Lachlan Deer, 2020, Research in Social Media, Tilburg University
 ```
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
