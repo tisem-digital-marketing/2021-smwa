@@ -1,13 +1,12 @@
-# Willkommen!
+# Welcome!
 
 Welcome to the course website for Research in Social Media at TiSEM in 2021.
 
 ## Important Information
 
-[Course Syllabus](assets/syllabus.pdf)
+:fontawesome-solid-exclamation-circle: [Course Syllabus](assets/syllabus.pdf)
 
-[Announcements](./announcements)
-
+:fontawesome-solid-bell: [Announcements](./announcements)
 
 !!! summary
 
