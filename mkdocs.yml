@@ -5,8 +5,9 @@ pages:
 - Schedule: schedule.md
 - Course Material: material.md
 - About the Instructors: about.md
-- Acknowledgements: acknowledgements.md
+# - Acknowledgements: acknowledgements.md
 - License: license.md
+- Citing Us: citation.md
 theme: material
 markdown_extensions:
   - admonition
