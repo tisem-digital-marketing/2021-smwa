@@ -1,13 +1,21 @@
-site_name: Research in Social Media, Block 4, 2021 @ TISEM
+site_name: Social Media & Web Analytics @ TISEM, 2021
 pages:
--  Course Home Page: index.md
+- Course Home Page: index.md
 - Announcements: announcements.md
 - Schedule: schedule.md
-- Course Material: material.md
+- Software Installation: software-install.md
 - About the Instructors: about.md
+- Before Course Start: week_00.md
+- Week 1 - Social Media: week_01.md
+- Week 2 - Online Reputation: week_02.md
+- Week 3 - Community Structure: week_03.md
+- Week 4 - Word of Mouth: week_04.md
+- Week 5 - Influencers: week_05.md
+- Week 6 - Viral Marketing: week_06.md
+- Week 7 - Social Advertising: week_07.md
 # - Acknowledgements: acknowledgements.md
 - License: license.md
-- Citing Us: citation.md
+- Citation: citation.md
 theme: material
 markdown_extensions:
   - admonition
