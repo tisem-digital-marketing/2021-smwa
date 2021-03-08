@@ -7,10 +7,7 @@
 This course adheres to the principles of the Open Science Community of Tilburg University. 
 This initiative advocates for transparency and accessibility in research and teaching to all levels of society and thus creating more accountability and impact.
 
-
-
 ## Instructional material
-
 
 All instructional material made available under the course titled "Social Media and Web Analytics"
  and authored by Lachlan Deer and Henrik de With is
