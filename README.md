@@ -1,9 +1,9 @@
-# Course Website: Research in Social Media, 2021-TiSEM
+# Course Website: Social Media and Web Analytics, 2021-TiSEM
 
 ## Meta-Information
 
 *   Module Maintainer: Lachlan Deer (`@lachlandeer`)
-*   Course: [Research in Social Media](https://tisem-social-media.github.io)
+*   Course: [Social Media and Web Analytics](https://tisem-social-media.github.io)
 *   Institute: TiSEM
 *   Current Version: [2021](https://tisem-social-media.github.io/2021-spring)
 
@@ -11,7 +11,7 @@ Alternatively, email us at: tisem_social_media 'AT' gmail 'DOT' com
 
 ## Building the Site
 
-We use [MkDocs]() to build the the course websites for this course.
+We use [MkDocs](https://www.mkdocs.org/) and the [`mkdocs-material`](https://squidfunk.github.io/mkdocs-material/) theme to build the the course websites for this course.
 
 * Install MkDocs with the following command:
 ```{.bash, id:"j29ie3c7"}
@@ -25,10 +25,8 @@ pip install mkdocs-material
 ```{.bash, id:"j29ie3c7"}
 mkdocs serve
 ```
-* Post the site to github pages using:
-```{.bash, id:"j29ie3c7"}
-mkdocs gh-deploy
-```
+* Deploy online: We use GitHub actions to automatically deploy the site online after any push to the `master` branch 
+
 
 ## Want to Contribute?
 
@@ -37,17 +35,25 @@ mkdocs gh-deploy
 
 ## License
 
-All materials are licensed under a Creative Commons CC-BY-NC-SA license. The license allows you to copy, remix and redistribute any of our publicly available materials, under the condition that you attribute the work (details in the license) and do not make profits from it. More information is available [here](LICENSE.md)
+All instructional materials are licensed under a Creative Commons CC-BY-NC-SA license. The license allows you to copy, remix and redistribute any of our publicly available materials, under the condition that you attribute the work (details in the license) and do not make profits from it. 
 
+All computer code is made available under the MIT license.
 
-## Suggested Citation
+More information is available [here](LICENSE.md)
 
-The suggested citation for the course materials is:
+## Citation
+
+Please cite as: 
+
+Deer, Lachlan and de With, Henrik. (2021).
+"Social Media and Web Analytics".
+April 2021 (Version v2021.1.0). url = https://tisem-social-media.github.io/2021-spring
 
 ```
-Lachlan Deer, 2020, Research in Social Media, Tilburg University
+@misc{ddw2021,
+      title={"Social Media and Web Analytics"},
+      author={Lachlan Deer and Henrik de With},
+      year={2021},
+      url = "https://tisem-social-media.github.io/2021-spring"
+}
 ```
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
-
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
