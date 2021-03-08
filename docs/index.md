@@ -2,6 +2,21 @@
 
 Welcome to the course website for **Social Media and Web Analytics** at TiSEM in **2021**.
 
+This course introduces introduces students to recent developments in the online marketing landscape - with an emphasis on social media applications.
+
+There are two overarching objectives:
+
+1. Learning/delivering marketing insights from state of the art research in social media marketing,
+2. Improving analytics & coding skills.
+
+*We want you to develop the knowledge and skills that we would want you to have if we were hiring you to work in a social media analytics team.*
+
+!!! bug "Site Under Development"
+
+    We are currently developing this site in the lead up to the 2021 start date in April.
+    
+    **Please check back in closer to April 15, 2021 to find the most up to date information.**
+
 ## Important Information
 
 :fontawesome-solid-exclamation-circle: [Course Syllabus](assets/syllabus.pdf)
@@ -12,7 +27,7 @@ Welcome to the course website for **Social Media and Web Analytics** at TiSEM in
 
     * **Dates**: Block 4, 2021
     * **Lectures**: Pre-recorded Videos
-    * **Self-Guided Tutorial**: RMarkdown Documents on GitHub
+    * **Self-Guided Tutorial**: Guided Coding Exercises with RMarkdown Documents
     * **Discussion Sections**: Live on Zoom
         * See TBA for details
     * **Contact Us**: tisem.social.media@gmail.com
