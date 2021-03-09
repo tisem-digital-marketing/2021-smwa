@@ -3,9 +3,9 @@
 ## Meta-Information
 
 *   Module Maintainer: Lachlan Deer (`@lachlandeer`)
-*   Course: [Social Media and Web Analytics](https://tisem-social-media.github.io)
+*   Course: [Social Media and Web Analytics](https://catalogus.tilburguniversity.edu/osiris_student_tiuprd/OnderwijsCatalogusSelect.do?selectie=cursus&collegejaar=2020&taal=en&cursus=300459-M-6)
 *   Institute: TiSEM
-*   Current Version: [2021](https://tisem-social-media.github.io/2021-spring)
+*   Current Version: [2021](https://tisem-digital-marketing.github.io/2021-smwa)
 
 Alternatively, email us at: tisem_social_media 'AT' gmail 'DOT' com
 
@@ -47,13 +47,13 @@ Please cite as:
 
 Deer, Lachlan and de With, Henrik. (2021).
 "Social Media and Web Analytics".
-April 2021 (Version v2021.1.0). url = https://tisem-social-media.github.io/2021-spring
+April 2021 (Version v2021.1.0). url = https://tisem-digital-marketing.github.io/2021-smwa
 
 ```
 @misc{ddw2021,
       title={"Social Media and Web Analytics"},
       author={Lachlan Deer and Henrik de With},
       year={2021},
-      url = "https://tisem-social-media.github.io/2021-spring"
+      url = "https://tisem-digital-marketing.github.io/2021-smwa"
 }
 ```

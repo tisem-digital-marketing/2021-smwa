@@ -30,7 +30,7 @@ Under the following terms:
 
 * **Attribution**---You must give appropriate credit (mentioning that
   your work is derived from this tutorial and, where practical, linking to the material
-  https://tisem-social-media.github.io/2021-spring), provide a [link to the
+  https://tisem-digital-marketing.github.io/2021-smwa), provide a [link to the
   license][cc-by-human], and indicate if changes were made. You may do
   so in any reasonable manner, but not in any way that suggests the
   licensor endorses you or your use.
