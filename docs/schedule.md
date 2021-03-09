@@ -10,7 +10,7 @@ Check back regularly for updates.
 
 | Week | Marketing Topic                       | Analytics Topic                        | Self Guided Tutorial                  | Due Dates                        |
 |------|---------------------------------------|----------------------------------------|---------------------------------------|----------------------------------|
-| 0    |  Course Introduction          |                                        | Introduction to R Introduction to Git |                                  |
+| 0    |  Course Introduction          |   Using Git and R                       | Introduction to R Introduction to Git |                                  |
 | 1    | Social Media Landscape                | Describing & Visualizing  Network Data |                                       |                                  |
 |      |  (No Class)                    |                                        |                                       |                                  |
 | 2    | Online Reputation                     | Multiple Regression Review             |                                       |                                  |
