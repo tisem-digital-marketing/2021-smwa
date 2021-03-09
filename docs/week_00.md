@@ -26,7 +26,7 @@ Please work through the following content before the course begins to build up y
     3. If you can't access premium content, please send an email to our library support team, asking them to provide you with full access for this course. 
     Their email address is `library-scienceskills@tilburguniversity.edu`
 
-    Encountering problems? Check the sign-up instructions provided by the University’s library.
+    Encountering problems? Check the [sign-up instructions](https://www.tilburguniversity.edu/students/skills/programming) provided by the University’s library.
 
 Please work through the following DataCamp Courses:
 
