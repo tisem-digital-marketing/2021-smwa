@@ -1,7 +1,11 @@
 # Class Schedule
 
 !!! summary "Essential Information"
-    TBA
+
+    * **Lectures**: Pre-recorded Videos
+    * **Self-Guided Tutorial**: Guided Coding Exercises with RMarkdown Documents
+    * **Discussion Sections**: Live on Zoom
+        * See TBA for details
 
 ## Schedule
 
