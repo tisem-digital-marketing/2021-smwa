@@ -3,9 +3,9 @@ pages:
 - Course Home Page: index.md
 - Announcements: announcements.md
 - Schedule: schedule.md
-- Software Installation: software-install.md
 - About the Instructors: about.md
-- Before Course Start: week_00.md
+- Software Installation: software-install.md
+- Course Preparation: week_00.md
 - Week 1 - Social Media: week_01.md
 - Week 2 - Online Reputation: week_02.md
 - Week 3 - Community Structure: week_03.md
