@@ -13,7 +13,7 @@ We will need you to have acquired some basic coding skills before the course beg
 
 Please work through the following content before the course begins to build up your basic coding toolkit:
 
-1. Complete the [software installation guide](../software-install).
+1. Complete the [software installation guide](../software_install).
 2. Completion of DataCamp modules on `R`, Version Control with Git, and some command line basics. See below for specifics.
 3. Watch the video series 'Working with Git and `R`'.
 
