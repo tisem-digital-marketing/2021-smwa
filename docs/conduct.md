@@ -102,7 +102,7 @@ If that's the case, the identities will remain confidential unless those individ
 
 ## Social rules
 
-In addition to having a code of conduct, we have four lightweight social rules. 
+In addition to having a code of conduct, we have four lightweight [social rules](../social_rules). 
 The social rules are different and separate from the code of conduct. 
 They help us create a better learning environment by giving names to counterproductive behavior and acting as a release valve so that frustration doesn't build up over time. 
 We expect people to unintentionally break the social rules from time to time. 
