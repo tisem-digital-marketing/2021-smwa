@@ -15,7 +15,7 @@ There are two overarching objectives:
 
     We are currently developing this site in the lead up to the 2021 start date in April.
     
-    **Please check back in closer to April 15, 2021 to find the most up to date information.**
+    **Please check back in closer to April 12, 2021 to find the most up to date information.**
 
 ## Important Information
 
