@@ -31,6 +31,7 @@ There are two overarching objectives:
     * **Discussion Sections**: Live on Zoom
         * See TBA for details
     * **Contact Us**: tisem.social.media@gmail.com
+    * **Rules**: Participating in this course means abiding by our [Social Rules](../social_rules) and [Code of Conduct](../conduct).
 
 ## Pre-Course Survey
 
