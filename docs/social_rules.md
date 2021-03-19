@@ -12,7 +12,7 @@ The social rules are:
 
 We expect people to break the social rules from time to time. 
 If you do, apologise and we'll move on.
-This means they’re different and totally separate from our [code of conduct](../conduct).
+This means the social rules are different and totally separate from our [code of conduct](../conduct).
 
 ## No well-actually’s
 
