@@ -9,6 +9,8 @@ Accordingly, all students, faculty, and invited guests are expected to show resp
 To make sure that everyone has a common understanding of "show respect and courtesy to each other," we have adopted the following code of conduct. 
 The code of conduct is enforced by the course instructors.
 
+Report a violation [here](https://forms.gle/4gUq34QgsyhPGgFC6).
+
 ## Unacceptable behavior
 
 The following types of behavior are unacceptable in our course, both online and in-person, and constitute code of conduct violations.
@@ -70,7 +72,7 @@ The consequences for the course community of not reporting bad behavior outweigh
 
 ### Where and how to report
 
-Please report all code of conduct violations via the [reporting form](). 
+Please report all code of conduct violations via the [reporting form](https://forms.gle/4gUq34QgsyhPGgFC6). 
 If you would rather discuss the matter in person with a faculty member, book office hours with one of us on the calendar, or email us to schedule a time to talk.
 
 In your report, please include:
