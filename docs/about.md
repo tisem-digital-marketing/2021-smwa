@@ -13,6 +13,6 @@ His substantive research interests lie in social media and it's impact on media 
 
 In his spare time he enjoys strumming his ukelele, improving his caffe latte making skills and building Lego models.
 
-## Henrik De With
+## Hendrik De With
 
 (TBD)
