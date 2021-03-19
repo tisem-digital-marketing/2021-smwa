@@ -43,10 +43,3 @@ Please work through the following DataCamp Courses:
 Having learned the essentials from DataCamp - watch the following videos that step through a prototype analytical workflow that you will experience in this course.
 
 * (TBD)
-
-## Guided Tutorials
-
-The tutorials below demonstrate some additional skills and tools you will need as the course progresses.
-They are located here for so you can look over them as required throughout the course.
-
-* (TBD)
