@@ -4,7 +4,8 @@ pages:
 - Announcements: announcements.md
 - Schedule: schedule.md
 - About the Instructors: about.md
-- Software Installation: software-install.md
+- Software Installation: software_install.md
+- Coding Tips: coding_tips.md
 - Course Preparation: week_00.md
 - Week 1 - Social Media: week_01.md
 - Week 2 - Online Reputation: week_02.md
@@ -14,6 +15,8 @@ pages:
 - Week 6 - Viral Marketing: week_06.md
 - Week 7 - Social Advertising: week_07.md
 # - Acknowledgements: acknowledgements.md
+- Social Rules: social_rules.md
+- Code of Conduct: conduct.md
 - License: license.md
 - Citation: citation.md
 theme: material
