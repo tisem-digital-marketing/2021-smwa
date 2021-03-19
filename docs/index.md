@@ -9,7 +9,7 @@ There are two overarching objectives:
 1. Learning/delivering marketing insights from state of the art research in social media marketing and the effects of user generated content,
 2. Improving analytics & coding skills.
 
-*We want you to develop the knowledge and skills that we would want you to have if we were hiring you to work in our social media analytics team.*
+ *We want you to develop the knowledge and skills that we would want you to have if we were hiring you to work in our social media analytics team.*
 
 !!! bug "Site Under Development"
 
