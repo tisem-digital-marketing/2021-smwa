@@ -1,10 +1,12 @@
 # Preparing for the Course
 
+## Course Introduction
+
 Please watch the course introduction videos:
 
 * (TBD)
 
-## Acquiring and Reviewing Basic Coding Skills
+## Coding Bootcamp
 
 To succeed in this course you will need to be willing to get your hands dirty and learn some new coding skills.
 We will need you to have acquired some basic coding skills before the course begins, and have curated some resources for you to work through so that we all begin the class from the same set of building blocks.
@@ -15,7 +17,7 @@ Please work through the following content before the course begins to build up y
 2. Completion of DataCamp modules on `R`, Version Control with Git, and some command line basics. See below for specifics.
 3. Watch the video series 'Working with Git and `R`'.
 
-## Data Camp Courses
+### Data Camp Courses
 
 !!! tip "Access to DataCamp's Premium Content"
 
@@ -36,7 +38,7 @@ Please work through the following DataCamp Courses:
 4. [Introduction to the Tidyverse](https://learn.datacamp.com/courses/introduction-to-the-tidyverse) (All Modules)
 5. [Working with Data in the Tidyverse](https://learn.datacamp.com/courses/working-with-data-in-the-tidyverse) (All Modules)
 
-## Working with Git and `R`
+### Working with Git and `R`
 
 Having learned the essentials from DataCamp - watch the following videos that step through a prototype analytical workflow that you will experience in this course.
 
