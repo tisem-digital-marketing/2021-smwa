@@ -1,5 +1,8 @@
 # Course Website: Social Media and Web Analytics, 2021-TiSEM
 
+ [![Actions Status: master](https://github.com/tisem-digital-marketing/2021-smwa/workflows/renderbook/badge.svg)](https://github.com/tisem-digital-marketing/2021-smwa/actions?query=workflow%3A"deploydocs")
+
+
 ## Meta-Information
 
 *   Module Maintainer: Lachlan Deer (`@lachlandeer`)
