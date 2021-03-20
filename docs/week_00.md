@@ -37,6 +37,7 @@ Please work through the following DataCamp Courses:
 3. [Introduction to R](https://learn.datacamp.com/courses/free-introduction-to-r) (Module 1 only)
 4. [Introduction to the Tidyverse](https://learn.datacamp.com/courses/introduction-to-the-tidyverse) (All Modules)
 5. [Working with Data in the Tidyverse](https://learn.datacamp.com/courses/working-with-data-in-the-tidyverse) (All Modules)
+6. [Reporting with R Mardown](https://learn.datacamp.com/courses/reporting-with-rmarkdown) (Modules 1 - 3)
 
 ### Working with Git and `R`
 
