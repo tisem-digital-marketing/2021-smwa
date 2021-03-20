@@ -1,7 +1,6 @@
 # Course Website: Social Media and Web Analytics, 2021-TiSEM
 
- [![Actions Status: master](https://github.com/tisem-digital-marketing/2021-smwa/workflows/renderbook/badge.svg)](https://github.com/tisem-digital-marketing/2021-smwa/actions?query=workflow%3A"deploydocs")
-
+[![Publish docs via GitHub Pages](https://github.com/tisem-digital-marketing/2021-smwa/actions/workflows/deploy.yml/badge.svg)](https://github.com/tisem-digital-marketing/2021-smwa/actions/workflows/deploy.yml)
 
 ## Meta-Information
 
