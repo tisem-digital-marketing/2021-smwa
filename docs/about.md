@@ -15,4 +15,8 @@ In his spare time he enjoys strumming his ukelele, improving his caffe latte mak
 
 ## Hendrik De With
 
-(TBD)
+Hendrik is a lecturer at the Tilburg School of Economics and Management and is involved in various teaching activities. 
+His interests are aligned with the courses he teaches and coordinates, and the topics he supervises students in.
+Those interests include general research methods, (social media) data analytics, and marketing strategy. 
+His substantive interest are in access-based consumption, marketing in the sharing economy, and marketing and sustainability. 
+[Let’s connect on LinkedIn!](https://www.linkedin.com/in/h-de-with/)
