@@ -42,8 +42,9 @@ We will post a short survey that we expect participants to complete closer to th
 
 ## Slack Chat
 
-Discussion with the instructors and with your peers will take place on [Slack](https://slack.com/).
+Discussion with the instructors and with your peers will take place on the [Slack](https://slack.com/) messaging platform.
 
-Click [here]() to be redirected to the Slack login page for our course.
-You should be able to log in using your `@tilburguniversity.edu` email address.
-Contact us if you cannot log in.
+* [Sign up](https://tisem-smwa.slack.com/signup#/) to our Slack chat by creating an account with your `@tilburguniversity.edu` email address
+* [Log in](https://tisem-smwa.slack.com/) once you have created an account.
+
+Contact us via email if you cannot sign up or log in.
