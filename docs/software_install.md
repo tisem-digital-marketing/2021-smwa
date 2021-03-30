@@ -2,7 +2,7 @@
 
 You will need to install the necessary software on to your laptop or personal computer to bring to work through the coding portions of this class.
 
-Installation instructions for Windows, Mac and Linux (Debian Flavours).
+Installation instructions are provided for Windows, Mac and Linux (Debian Flavours).
 We strongly advise against you using Chromebooks (Android) for this course.
 To work through the installation you will need administrator rights on your machine.
 
