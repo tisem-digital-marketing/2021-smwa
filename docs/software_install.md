@@ -2,9 +2,9 @@
 
 You will need to install the necessary software on to your laptop or personal computer to bring to work through the coding portions of this class.
 
-Installation instructions are provided for Windows, Mac and Linux (Debian Flavours).
-We strongly advise against you using Chromebooks (Android) for this course.
-To work through the installation you will need administrator rights on your machine.
+* Installation instructions are provided for Windows, Mac and Linux (Debian Flavours).
+* We strongly advise *against* using Chromebooks (Android) for this course.
+* To work through the installation you will need administrator rights on your machine.
 
 Go to the [Installation Guide](https://tisem-digital-marketing.github.io/2021-smwa-installation-guide/).
 
@@ -17,4 +17,5 @@ Go to the [Installation Guide](https://tisem-digital-marketing.github.io/2021-sm
     * 13/04/2021 10:00 - 12:00
     * 15/04/2021 10:00 - 12:45
 
-    To book a 15 minute time slot to get help, sign up [here](https://calendly.com/lachlan-deer/office-hours).
+    To book a 15 minute time slot to get help, sign up [here](https://calendly.com/lachlan-deer/office-hours). 
+    Instructions on how to join the office hours will be emailed to you approximately 1 hour before the scheduled meeting.
