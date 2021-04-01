@@ -11,7 +11,9 @@ Prior to joining Tilburg University he was a Postdoctoral Fellow at the Universi
 
 His substantive research interests lie in social media and it's impact on media and entertainment industries, and the role of social media networks in political revolutions.
 
-In his spare time he enjoys strumming his ukelele, improving his caffe latte making skills and building Lego models.
+In his spare time he enjoys strumming his ukulele, improving his caffe latte making skills and building Lego models.
+
+[**Sign Up to Lachlan's Office Hours**][calendly-lachlan]
 
 ## Hendrik De With
 
@@ -20,3 +22,8 @@ His interests are aligned with the courses he teaches and coordinates, and the t
 Those interests include general research methods, (social media) data analytics, and marketing strategy. 
 His substantive interest are in access-based consumption, marketing in the sharing economy, and marketing and sustainability. 
 [Let’s connect on LinkedIn!](https://www.linkedin.com/in/h-de-with/)
+
+[**Sign Up to Hendrik's Office Hours**][calendly-hendrik]
+
+[calendly-hendrik]: https://calendly.com/h-j-c-dewith/15min
+[calendly-lachlan]: https://calendly.com/lachlan-deer/office-hours
