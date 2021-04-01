@@ -35,10 +35,8 @@ There are two overarching objectives:
 
 ## Pre-Course Survey
 
-We will post a short survey that we expect participants to complete closer to the course start date.
-<!-- Please fill out the pre-course survey before the course begins. -->
-
-<!-- [![](https://img.icons8.com/cotton/64/000000/survey.png){: style="width:38px"}](https://forms.gle/5bB3ncpmkNwfQ34F7) [Pre-Course Survey](https://forms.gle/5bB3ncpmkNwfQ34F7) -->
+<!-- We will post a short survey that we expect participants to complete closer to the course start date. -->
+Please fill out the [pre-course survey](https://forms.gle/sqqjx1kmasjH8QHJ7) before the course begins.
 
 ## Slack Chat
 
