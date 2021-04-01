@@ -11,11 +11,14 @@ There are two overarching objectives:
 
  *We want you to develop the knowledge and skills that we would want you to have if we were hiring you to work in our social media analytics team.*
 
-!!! bug "Site Under Development"
+<!-- !!! bug "Site Under Development"
 
     We are currently developing this site in the lead up to the 2021 start date in April.
     
-    **Please check back in closer to April 12, 2021 to find the most up to date information.**
+    **Please check back in closer to April 12, 2021 to find the most up to date information.** -->
+
+!!! tip "Course Website is Live!"
+
 
 ## Important Information
 
