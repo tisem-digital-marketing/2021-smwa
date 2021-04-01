@@ -5,9 +5,11 @@
 Please watch the course introduction videos:
 
 * *Video link coming soon!*
-* *Slides: coming soon*
+* [Slides](assets/lectures/course_prep/smwa_intro.pdf)
 
 ## Coding Bootcamp
+
+* [Coding Camp Intro Slides](assets/lectures/course_prep/codecamp.pdf)
 
 To succeed in this course you will need to be willing to get your hands dirty and learn some new coding skills.
 We will need you to have acquired some basic coding skills before the course begins, and have curated some resources for you to work through so that we all begin the class from the same set of building blocks.
