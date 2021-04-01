@@ -4,7 +4,8 @@
 
 Please watch the course introduction videos:
 
-* (TBD)
+* *Video link coming soon!*
+* *Slides: coming soon*
 
 ## Coding Bootcamp
 
@@ -15,7 +16,7 @@ Please work through the following content before the course begins to build up y
 
 1. Complete the [software installation guide](../software_install).
 2. Completion of DataCamp modules on `R`, Version Control with Git, and some command line basics. See below for specifics.
-3. Watch the video series 'Working with Git and `R`'.
+3. Work through [How to Use Git/Github with R][git-r].
 
 ### Data Camp Courses
 
@@ -39,8 +40,11 @@ Please work through the following DataCamp Courses:
 5. [Working with Data in the Tidyverse](https://learn.datacamp.com/courses/working-with-data-in-the-tidyverse) (All Modules)
 6. [Reporting with R Markdown](https://learn.datacamp.com/courses/reporting-with-rmarkdown) (Modules 1 - 3)
 
-### Working with Git and `R`
+### Working with Git and R
 
-Having learned the essentials from DataCamp - watch the following videos that step through a prototype analytical workflow that you will experience in this course.
+Having learned the essentials from DataCamp in isolation, next you need to work through how to use them together.
+Work through the following material on how to use Git with R/RStudio:
 
-* (TBD)
+* [How to Use Git/Github with R][git-r]
+
+[git-r]: https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/
