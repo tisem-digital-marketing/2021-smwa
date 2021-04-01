@@ -32,7 +32,7 @@ There are two overarching objectives:
     * **Lectures**: Pre-recorded Videos
     * **Self-Guided Tutorial**: Guided Coding Exercises with RMarkdown Documents
     * **Discussion Sections**: Live on Zoom
-        * See TBA for details
+        * See [here][live_sessions] for details
     * **Contact Us**: tisem.social.media@gmail.com
     * **Rules**: Participating in this course means abiding by our [Social Rules](../social_rules) and [Code of Conduct](../conduct).
 
@@ -49,3 +49,5 @@ Discussion with the instructors and with your peers will take place on the [Slac
 * [Log in](https://tisem-smwa.slack.com/) once you have created an account.
 
 Contact us via email if you cannot sign up or log in.
+
+[live_sessions]: https://docs.google.com/document/d/1kRD6murXaRM9hjMt6W2XJPU7EAfs-INRPGpUVWfNLos/edit?usp=sharing

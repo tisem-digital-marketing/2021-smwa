@@ -5,7 +5,7 @@
     * **Lectures**: Pre-recorded Videos
     * **Self-Guided Tutorial**: Guided Coding Exercises with RMarkdown Documents
     * **Discussion Sections**: Live on Zoom
-        * See TBA for details
+        * See [here][live_sessions] for details
 
 ## Schedule
 
@@ -23,3 +23,5 @@ Check back regularly for updates.
 | 5    | Influencers                           | Simulating Network Evolution           |                                       | Project Milestone 2              |
 | 6    | Internet Marketing  & Viral Marketing | Text Analytics II                      |                                       |                                  |
 | 7    | Social Advertising                    | TBA                                    | TBA                                   | Assignment 2 & Final Project |
+
+[live_sessions]: https://docs.google.com/document/d/1kRD6murXaRM9hjMt6W2XJPU7EAfs-INRPGpUVWfNLos/edit?usp=sharing
