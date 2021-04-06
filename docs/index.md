@@ -28,7 +28,6 @@ There are two overarching objectives:
 
     * Zoom Link: To Be Added
 
-
 :fontawesome-solid-exclamation-circle: [Course Syllabus](assets/syllabus.pdf)
 
 :fontawesome-solid-bell: [Announcements](./announcements)
