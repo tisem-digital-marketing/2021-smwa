@@ -17,6 +17,9 @@ In his spare time he enjoys strumming his ukulele, improving his caffe latte mak
 
 ## Hendrik De With
 
+<p style="text-align:center;"><img src="https://avatars.githubusercontent.com/u/62561616?v=4" alt="Logo" width = "200"></p>
+
+
 Hendrik is a lecturer at the Tilburg School of Economics and Management and is involved in various teaching activities. 
 His interests are aligned with the courses he teaches and coordinates, and the topics he supervises students in.
 Those interests include general research methods, (social media) data analytics, and marketing strategy. 
