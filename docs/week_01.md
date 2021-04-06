@@ -14,6 +14,9 @@ To be added.
 
 To be added.
 
+## Quiz
+
+To be added.
 ## Discussion Class
 
 To be added.
