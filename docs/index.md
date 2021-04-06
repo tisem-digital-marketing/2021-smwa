@@ -22,6 +22,13 @@ There are two overarching objectives:
 
 ## Important Information
 
+!!! tip "Next Live Session"
+
+    We will meet on Tuesday, April 13, at 12:45pm for a Welcome session and to answer your questions.
+
+    * Zoom Link: To Be Added
+
+
 :fontawesome-solid-exclamation-circle: [Course Syllabus](assets/syllabus.pdf)
 
 :fontawesome-solid-bell: [Announcements](./announcements)
