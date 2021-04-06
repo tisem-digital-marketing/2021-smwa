@@ -52,7 +52,7 @@ If you want to use the geographical boundaries for the Netherlands that we intro
 ## Discussion Class
 
 * Submit the topics you want to discuss in our live session on **April 29** and **April 30**
-    * Fill in this survey before 23.59 on Friday April 16
+    * Fill in [this survey][week01-survey] before 23.59 on Friday April 16
 
 <!--- Links below --->
 [stephan-2020]: https://link.springer.com/article/10.1007/s11747-019-00695-1
@@ -65,4 +65,5 @@ If you want to use the geographical boundaries for the Netherlands that we intro
 [lecture-rtweet]: ../assets/week-01/rtweet.html
 [lecture-slides]: ../assets/week-01/week-01-slides.pdf
 
-[demo-01]: https://tobeadded
+[demo-01]: https://github.com/tisem-digital-marketing/smwa-demo-01
+[week01-survey]: https://forms.gle/nLD7uT7fwuKq2Y7Y8
