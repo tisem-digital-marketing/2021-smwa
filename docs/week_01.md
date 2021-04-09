@@ -57,7 +57,7 @@ These notes provide the background reading to work through the self-guided tutor
 ## Quiz
 
 * Link to Quiz on Canvas
-    * Will be available on Tuesday, April 16 in the morning
+    * Will be available on Tuesday, April 13 in the morning
     * **Due by 23.59 on 16 April 2021**
 
 ## Discussion Class
