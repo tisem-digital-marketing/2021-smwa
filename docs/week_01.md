@@ -7,21 +7,22 @@ Parts of these readings and themes from them will be covered in the video lectur
 
 * [The future of social media in marketing][stephan-2020]
 * [Intrinsic vs. image-related utility in social media: Why do people contribute content to twitter?][stephan-toubia]
-* [The production and consumption of social media][filippas-horton]
 * [Seeking the support of the silent majority: are lurking users valuable to UGC platforms?][chen-etal]
 
 ### Additional Readings
 
-* [A thematic exploration of digital, social media, and mobile marketing research's evolution from 2000 to 2015 and an agenda for future research][lambert-stephan]
-* [Characterizing silent users in social media communities][gong-etal]
-* [A computational reward learning account of social media engagement][lindstrom-etal]
-* [Characterizing the Behavioral Evolution of Twitter Users and The Truth Behind the 90-9-1 Rule][antelmi-etal]
 * [Global social media research summary 2021][socialmedia-summary]
+* [A thematic exploration of digital, social media, and mobile marketing research's evolution from 2000 to 2015 and an agenda for future research][lambert-stephan]
+* [Characterising silent users in social media communities][gong-etal]
+* [A computational reward learning account of social media engagement][lindstrom-etal]
+* [Characterising the Behavioral Evolution of Twitter Users and The Truth Behind the 90-9-1 Rule][antelmi-etal]
+* [The production and consumption of social media][filippas-horton]
 
 ## Video Lecture
 
 * [Slides: Social Media Landscape][lecture-slides]
-* Watch the videos as a playlist, or individually:
+* Videos coming soon!
+<!-- * Watch the videos as a playlist, or individually: -->
 
 ## Lecture Notes
 
@@ -29,25 +30,30 @@ These notes provide the background reading to work through the self-guided tutor
 
 * [A First Introduction to Networks with R][lecture-networks]
     * Introduces aspects of the R packages `tidygraph` and `ggraph`
+    * Coming Soon!
 * [Introduction to the Twitter API and rtweet][lecture-rtweet]
     * Introduces the R package `rtweet`
-## Self-Guided Tutorial
+    * Coming Soon!
 
-**Topic**: Collecting Social Media Data and Visualizing Social Media Networks
+## Self-Guided Lab
+
+**Topic**: Collecting Social Media Data and Visualising Social Media Networks
+
+* [PDF][lab-01-q]
+* [Link][lab-01-gh] to GitHub repo
 
 ## Demonstration Video
 
 **Topic**: We use `rtweet` to access Twitter data and then plot the retweet and mention network using `tidygraph` and `ggraph`.
 
-Watch the videos as a playlist, or individually:
+* Videos coming soon!
 
-* TBA
+<!-- Watch the videos as a playlist, or individually:
 
-The code and data from the demonstration videos are on [GitHub][demo-01].
+* TBA -->
 
-If you want to use the geographical boundaries for the Netherlands that we introduce in these videos, follow these instructions:
+[GitHub repo][demo-01] with code & data.
 
-* TBA
 ## Quiz
 
 * Link to Quiz on Canvas
@@ -70,9 +76,12 @@ If you want to use the geographical boundaries for the Netherlands that we intro
 [antelmi-etal]: https://dl.acm.org/doi/abs/10.1145/3308560.3316705
 [socialmedia-summary]: https://www.smartinsights.com/social-media-marketing/social-media-strategy/new-global-social-media-research/
 
-[lecture-networks]: ../assets/week-01/intro-networks.html
-[lecture-rtweet]: ../assets/week-01/rtweet.html
-[lecture-slides]: ../assets/week-01/week-01-slides.pdf
+[lecture-networks]: ../assets/lectures/week-01/intro-networks.html
+[lecture-rtweet]: ../assets/lectures/week-01/rtweet.html
+[lecture-slides]: ../assets/lectures/week-01/week-01-slides.pdf
+
+[lab-01-q]: ../assets/labs/lab-01_question.pdf
+[lab-01-gh]: https://github.com/tisem-digital-marketing/smwa-lab-01
 
 [demo-01]: https://github.com/tisem-digital-marketing/smwa-demo-01
 [week01-survey]: https://forms.gle/nLD7uT7fwuKq2Y7Y8
