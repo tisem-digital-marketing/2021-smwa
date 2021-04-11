@@ -29,11 +29,10 @@ Parts of these readings and themes from them will be covered in the video lectur
 These notes provide the background reading to work through the self-guided tutorial.
 
 * [A First Introduction to Networks with R][lecture-networks]
+    * Defines some important terms for talking about networks
     * Introduces aspects of the R packages `tidygraph` and `ggraph`
-    * Coming Soon!
 * [Introduction to the Twitter API and rtweet][lecture-rtweet]
     * Introduces the R package `rtweet`
-    * Coming Soon!
 
 ## Self-Guided Lab
 
@@ -76,8 +75,8 @@ These notes provide the background reading to work through the self-guided tutor
 [antelmi-etal]: https://dl.acm.org/doi/abs/10.1145/3308560.3316705
 [socialmedia-summary]: https://www.smartinsights.com/social-media-marketing/social-media-strategy/new-global-social-media-research/
 
-[lecture-networks]: ../assets/lectures/week-01/intro-networks.html
-[lecture-rtweet]: ../assets/lectures/week-01/rtweet.html
+[lecture-networks]: ../assets/lectures/week-01/intro-networks.pdf
+[lecture-rtweet]: ../assets/lectures/week-01/intro-twitter-rtweet.pdf
 [lecture-slides]: ../assets/lectures/week-01/week-01-slides.pdf
 
 [lab-01-q]: ../assets/labs/lab-01_question.pdf
