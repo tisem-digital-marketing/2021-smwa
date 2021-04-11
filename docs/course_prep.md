@@ -9,7 +9,7 @@ Please watch the course introduction videos:
     * [Welcome](https://youtu.be/b8v6ZjOyPNA)
     * [Logistics](https://youtu.be/AEWbQ16521A)
     * [Meet the Instructors: Lachlan](https://youtu.be/mgsf25doADM)
-    * Meet the Instructors: Hendrik -- To Be Added
+    * [Meet the Instructors: Hendrik](https://youtu.be/x1Fes2cd3uE)
     * [What is Social Media Analytics](https://youtu.be/Lj0hbp2siIY)
     * [Topic Coverage](https://youtu.be/zL08rQ2dwWU)
     * [Assessment](https://youtu.be/KTLTdwLTQLc)
