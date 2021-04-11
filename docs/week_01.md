@@ -21,7 +21,7 @@ Parts of these readings and themes from them will be covered in the video lectur
 ## Video Lecture
 
 * [Slides: Social Media Landscape][lecture-slides]
-* Videos coming soon!
+* Videos as a [playlist](https://www.youtube.com/watch?v=O5FwDo-tSgI&list=PL9QkA7C7GRGXIC43pkTWyfQKkgXChs2E_)
 <!-- * Watch the videos as a playlist, or individually: -->
 
 ## Lecture Notes
@@ -46,7 +46,7 @@ These notes provide the background reading to work through the self-guided tutor
 
 **Topic**: We use `rtweet` to access Twitter data and then plot the retweet and mention network using `tidygraph` and `ggraph`.
 
-* Videos coming soon!
+* Videos as a [playlist](https://www.youtube.com/watch?v=ui0C1-h1mxA&list=PL9QkA7C7GRGX6HB6JXFV3VwbQHYkTFHP4)
 
 <!-- Watch the videos as a playlist, or individually:
 
