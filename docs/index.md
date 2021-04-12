@@ -26,7 +26,7 @@ There are two overarching objectives:
 
     We will meet on Tuesday, April 13, at 12:45pm for a Welcome session and to answer your questions.
 
-    * Zoom Link: To Be Added
+    * [Zoom Link](https://tilburguniversity.zoom.us/s/91547015125)
 
 :fontawesome-solid-exclamation-circle: [Course Syllabus](assets/syllabus.pdf)
 
