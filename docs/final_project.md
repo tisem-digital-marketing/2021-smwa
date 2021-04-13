@@ -2,7 +2,7 @@
 
 The individual final project is made up of three milestones.
 
-Instructions on how to gain access to each milestone's templates is available below.
+Instructions on how to gain access to each milestone's template is available below.
 
 ## Milestone 1: Proposal & Data
 
