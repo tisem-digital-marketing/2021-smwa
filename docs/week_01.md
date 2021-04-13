@@ -56,7 +56,7 @@ These notes provide the background reading to work through the self-guided tutor
 ## Quiz
 
 * [Link][quiz-01] to Quiz on Canvas
-    * **Due by 23.59 on 16 April 2021**
+    * **Due by 23.59 on 17 April 2021**
 
 ## Discussion Class
 
