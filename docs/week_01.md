@@ -55,8 +55,7 @@ These notes provide the background reading to work through the self-guided tutor
 
 ## Quiz
 
-* Link to Quiz on Canvas
-    * Will be available on Tuesday, April 13 in the morning
+* [Link][quiz-01] to Quiz on Canvas
     * **Due by 23.59 on 16 April 2021**
 
 ## Discussion Class
@@ -83,4 +82,5 @@ These notes provide the background reading to work through the self-guided tutor
 [lab-01-gh]: https://github.com/tisem-digital-marketing/smwa-lab-01
 
 [demo-01]: https://github.com/tisem-digital-marketing/smwa-demo-01
+[quiz-01]: https://tilburguniversity.instructure.com/courses/7508/quizzes
 [week01-survey]: https://forms.gle/nLD7uT7fwuKq2Y7Y8
