@@ -40,6 +40,7 @@ These notes provide the background reading to work through the self-guided tutor
 
 * [PDF][lab-01-q]
 * [Link][lab-01-gh] to GitHub repo
+* [Suggested Solutions][lab-01-s]
 
 ## Demonstration Video
 
@@ -80,6 +81,7 @@ These notes provide the background reading to work through the self-guided tutor
 
 [lab-01-q]: ../assets/labs/lab-01_question.pdf
 [lab-01-gh]: https://github.com/tisem-digital-marketing/smwa-lab-01
+[lab-01-s]: ../assets/labs/lab-01_solution.pdf
 
 [demo-01]: https://github.com/tisem-digital-marketing/smwa-demo-01
 [quiz-01]: https://tilburguniversity.instructure.com/courses/7508/quizzes
