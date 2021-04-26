@@ -1,4 +1,4 @@
-# Week 1 - Online Reputation
+# Week 2 - Online Reputation
 
 ## Required Readings
 
@@ -7,27 +7,40 @@ Parts of these readings and themes from them will be covered in the video lectur
 * [The Dynamics of Seller Reputation: Evidence from Ebay][rep-ebay]
 * [Promotional reviews: An empirical investigation of online review manipulation](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2015.2304)
 * [Measuring and Managing the Externality of Managerial Responses to Online Customer Reviews][chen-etal]
+
 ## Video Lecture
 
-To Be Added.
+To Be Added - coming Tuesday.
 
 <!-- * Part 1: Online Reputation
 * Part 2: Fixed Effects in Regression
 * Part 3: Understanding Difference in Differences -->
 
+## Analytics Notes
+
+We'll need some concepts from Linear Regression to work through the Lab & understand lecture content:
+
+* Review of Basic Concepts: Chapters 3, 4, 5, 6 of [these notes](https://scpoecon.github.io/ScPoEconometrics/)
+    * Based on the pre-course survey, many of you are already familiar with these concepts
+* Omitted Variables Bias (Chapter 7.5) and Panel Data (Chapter 12) of [these notes](https://scpoecon.github.io/ScPoEconometrics/)
+* [Getting Standard Errors Right][regression-errors]
+* [Linear Regression with `R`][regression-r]
+
 ## Self Guided Lab
 
-To be Added.
+* [Link][lab-02] to GitHub repository 
+    * Questions with an answer template contained in repo
 ## Quiz
 
-To Be Added.
+To Be Added - coming Wednesday!.
 
 <!-- * [Link][quiz-02] to Quiz on Canvas
     * **Due by 23.59 on 30 April 2021** -->
 
 ## Discussion Class
 
-To be Added.
+* Submit the topics you want to discuss in our live session on **May 6** and **May 7**
+    * Fill in [this survey][week02-survey] before 23.59 on Friday April 30
 ## Additional Readings
 
 These readings are optional, and designed to give interested students a place to look for some further information.
@@ -49,3 +62,9 @@ These readings are optional, and designed to give interested students a place to
 [chen-etal]: https://repository.arizona.edu/bitstream/handle/10150/632181/2%20ISR-MR-Paper.pdf?sequence=1
 
 [quiz-02]: https://tilburguniversity.instructure.com/courses/7508/quizzes
+
+[regression-errors]: ../assets/lectures/week-02/regression-standard-errors.pdf
+[regression-r]: ../assets/lectures/week-02/regression-r.pdf
+
+[lab-02]: https://github.com/tisem-digital-marketing/smwa-lab-02
+[week02-survey]: https://forms.gle/Tg7ZpULXBpXffD1r9
