@@ -22,11 +22,21 @@ There are two overarching objectives:
 
 ## Important Information
 
-!!! tip "Next Live Session"
+!!! tip "Next Live Sessions"
 
-    We will meet on Tuesday, April 13, at 12:45pm for a Welcome session and to answer your questions.
+    **Zoom link for both sessions**: https://tilburguniversity.zoom.us/s/91547015125
 
-    * [Zoom Link](https://tilburguniversity.zoom.us/s/91547015125)
+    **Discussion session 1** - Thursday 29 April, 12.45. Hosted by Lachlan.
+    
+    * Part 1: What kind of data can you use for you final project? Where to look for inspiration?  (You're at a very early stage in you final project)
+    * Part 2: Demonstration of Lab 01. For those that really struggling with the general gist of lab 1, we'll show how to go through this step-by-step (e.g. showing how to clone the repo, going through some exercise and explaining what you do).
+    * We'll take other questions about the course as well, get prepared to get involved!
+
+    **Discussion session 2** - Friday 30 April, 10.45. Hosted by Hendrik.
+    
+    * Part 1: "I have a concrete idea for the final project, but want to talk to someone about this" - we're going to pitch some research ideas and talk about their relevance. (You know more or less what data you will use, and are in the process of formulating a research idea)
+    * Part 2: Demonstration of Lab 01. For those that really struggling with the general gist of lab 1, we'll show how to go through this step-by-step (e.g. showing how to clone the repo, going through some exercise and explaining what you do).
+    * We'll take other questions about the course as well, get prepared to get involved!
 
 :fontawesome-solid-exclamation-circle: [Course Syllabus](assets/syllabus.pdf)
 
