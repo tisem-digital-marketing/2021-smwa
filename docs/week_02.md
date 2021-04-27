@@ -66,6 +66,6 @@ These readings are optional, and designed to give interested students a place to
 [regression-errors]: ../assets/lectures/week-02/regression-standard-errors.pdf
 [regression-r]: ../assets/lectures/week-02/regression-r.pdf
 
-[lecture-slides-02]: [lecture-slides]: ../assets/lectures/week-02/week-02-slides.pdf
+[lecture-slides-02]: ../assets/lectures/week-02/week-02-slides.pdf
 [lab-02]: https://github.com/tisem-digital-marketing/smwa-lab-02
 [week02-survey]: https://forms.gle/Tg7ZpULXBpXffD1r9
