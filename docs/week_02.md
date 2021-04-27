@@ -11,6 +11,8 @@ Parts of these readings and themes from them will be covered in the video lectur
 ## Video Lecture
 
 * [Slides: Online Reputation][lecture-slides-02]
+* Videos as a [playlist](https://www.youtube.com/watch?v=X4c4-v1ZMeE&list=PL9QkA7C7GRGVPT7CpH90Y8Om79iA26grc)
+
 
 <!-- * Part 1: Online Reputation
 * Part 2: Fixed Effects in Regression
