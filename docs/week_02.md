@@ -32,7 +32,8 @@ We'll need some concepts from Linear Regression to work through the Lab & unders
     * Questions with an answer template contained in repo
 ## Quiz
 
-To Be Added - coming Wednesday!.
+* [Link][quiz-02] to Quiz on Canvas
+    * **Due by 23.59 on 30 April 2021**
 
 <!-- * [Link][quiz-02] to Quiz on Canvas
     * **Due by 23.59 on 30 April 2021** -->
