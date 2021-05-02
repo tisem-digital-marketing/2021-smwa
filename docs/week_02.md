@@ -32,6 +32,8 @@ We'll need some concepts from Linear Regression to work through the Lab & unders
 
 * [Link][lab-02] to GitHub repository 
     * Questions with an answer template contained in repo
+* [Suggested Solutions][lab-02-s]
+
 ## Quiz
 
 * [Link][quiz-02] to Quiz on Canvas
@@ -65,6 +67,7 @@ These readings are optional, and designed to give interested students a place to
 [chen-etal]: https://repository.arizona.edu/bitstream/handle/10150/632181/2%20ISR-MR-Paper.pdf?sequence=1
 
 [quiz-02]: https://tilburguniversity.instructure.com/courses/7508/quizzes
+[lab-01-s]: ../assets/labs/lab-01_solution.pdf
 
 [regression-errors]: ../assets/lectures/week-02/regression-standard-errors.pdf
 [regression-r]: ../assets/lectures/week-02/regression-r.pdf
