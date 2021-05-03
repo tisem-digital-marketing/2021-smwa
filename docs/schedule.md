@@ -18,7 +18,7 @@ Check back regularly for updates.
 | 1    | Social Media Landscape                | Intro to rtweet & Intro to Networks    | Collecting Tweets & Visualising Twitter Networks                                     |                                  |
 |      |  (No Class)                           |   (one week break)                     |                                       |                                  |
 | 2    | Online Reputation                     | Multiple Regression                    | Multiple Regression in Action         |                                  |
-| 3    | Community Structure                   | Difference in Differences              | Difference in Differences             | Project Milestone 1              |
+| 3    | Causality & Diff in Diff                   | Difference in Differences              | Difference in Differences             | Project Milestone 1              |
 | 4    | Word of Mouth                         | Text Analytics I                       | Text Analytics                        |                      |
 | 5    | Influencers                           | Networks II                            | TBA                                   | Assignment 1 & Project Milestone 2              |
 | 6    | Internet Marketing  & Viral Marketing | Text Analytics II                      | TBA                                   |                                  |
