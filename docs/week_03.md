@@ -5,6 +5,7 @@
 Parts of these readings and themes from them will be covered in the video lecture.
 
 * [Conducting Research with Quasi-Experiments: A Guide for Marketers][goldfarb-tucker]
+    * In Section 3, only read 3.1
 
 ## Video Lecture
 
