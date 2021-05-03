@@ -27,7 +27,7 @@ Coming Monday evening
 ## Discussion Class
 
 * Submit the topics you want to discuss in our live session on **May 11** and **May 12**
-    * Fill in [this survey][week03-survey] before 23.59 on Friday May 30
+    * Fill in [this survey][week03-survey] before 23.59 on Friday May 7
 
 [goldfarb-tucker]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2420920
 
