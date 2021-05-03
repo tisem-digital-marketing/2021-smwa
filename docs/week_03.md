@@ -9,8 +9,6 @@ Parts of these readings and themes from them will be covered in the video lectur
 
 ## Video Lecture
 
-Coming Monday evening
-
 * [Slides][lecture-slides-03]
 * Videos as a [playlist](https://www.youtube.com/watch?v=rgMEMeiGETk&list=PL9QkA7C7GRGWAnmrkW5cFjbN-kkqWuVrX)
 
