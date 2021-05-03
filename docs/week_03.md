@@ -11,8 +11,8 @@ Parts of these readings and themes from them will be covered in the video lectur
 
 Coming Monday evening
 
-<!-- * [Slides][lecture-slides-03]
-* Videos as a [playlist](https://www.youtube.com/watch?v=X4c4-v1ZMeE&list=PL9QkA7C7GRGVPT7CpH90Y8Om79iA26grc) -->
+* [Slides][lecture-slides-03]
+* Videos as a [playlist](https://www.youtube.com/watch?v=rgMEMeiGETk&list=PL9QkA7C7GRGWAnmrkW5cFjbN-kkqWuVrX)
 
 ## Self-Guided Lab
 
@@ -31,6 +31,7 @@ Coming Monday evening
 
 [goldfarb-tucker]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2420920
 
+[lecture-slides-03]: ../assets/lectures/week-03/week-03-slides.pdf
 [quiz-03]: https://tilburguniversity.instructure.com/courses/7508/quizzes
 [lab-03]: https://github.com/tisem-digital-marketing/smwa-lab-03
 [week03-survey]: https://forms.gle/2debm9jfAgh34ovFA
