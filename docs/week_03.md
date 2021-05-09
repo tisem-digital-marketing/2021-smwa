@@ -16,6 +16,8 @@ Parts of these readings and themes from them will be covered in the video lectur
 
 * [Link][lab-03] to GitHub repository 
     * Questions with an answer template contained in repo
+* [Partial Solutions][lab-03-s]
+
 
 # Quiz
 
@@ -32,4 +34,5 @@ Parts of these readings and themes from them will be covered in the video lectur
 [lecture-slides-03]: ../assets/lectures/week-03/week-03-slides.pdf
 [quiz-03]: https://tilburguniversity.instructure.com/courses/7508/quizzes
 [lab-03]: https://github.com/tisem-digital-marketing/smwa-lab-03
+[lab-02-s]: ../assets/labs/lab-03_solution.pdf
 [week03-survey]: https://forms.gle/2debm9jfAgh34ovFA
