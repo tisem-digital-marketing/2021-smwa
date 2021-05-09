@@ -26,17 +26,13 @@ There are two overarching objectives:
 
     **Zoom link for both sessions**: https://tilburguniversity.zoom.us/s/91547015125
 
-    **Discussion session 1** - Tuesday, May 4 at 12.45. Hosted by Lachlan.
+    **Discussion session 1** - Tuesday, May 11 at 12.45. Hosted by Lachlan.
     
-    * Part 1: Final discussion re: milestone 01. Bring your questions - I won't have anything "prepared".
-    * Part 2: Working collaboratively with Git. Useful for the group assignment!
-    * We'll take other questions about the course as well, get prepared to get involved!
+    * TBA
 
-    **Discussion session 2** - Thursday, May 6 at 14.45. Hosted by Hendrik.
+    **Discussion session 2** - Wednesday, May 12 at 10.30. Hosted by Hendrik.
     
-    * Part 1: Omitted Variable Bias, Causality and Difference in Differences
-    * Part 2: Working collaboratively with Git. Useful for the group assignment!
-    * We'll take other questions about the course as well, get prepared to get involved!
+    * TBA
 
 :fontawesome-solid-exclamation-circle: [Course Syllabus](assets/syllabus.pdf)
 
