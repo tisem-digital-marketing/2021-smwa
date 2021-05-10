@@ -28,11 +28,11 @@ There are two overarching objectives:
 
     **Discussion session 1** - Tuesday, May 11 at 12.45. Hosted by Lachlan.
     
-    * TBA
+    * Text Analytics Tools -- An Introduction
 
     **Discussion session 2** - Wednesday, May 12 at 10.30. Hosted by Hendrik.
     
-    * TBA
+    * Difference in Differences example from Lab 3
 
 :fontawesome-solid-exclamation-circle: [Course Syllabus](assets/syllabus.pdf)
 
