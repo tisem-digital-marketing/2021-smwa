@@ -30,7 +30,7 @@ There are two overarching objectives:
     
     * Text Analytics Tools -- An Introduction
 
-    **Discussion session 2** - Wednesday, May 12 at 10.30. Hosted by Hendrik.
+    **Discussion session 2** - Wednesday, May 12 at 12.45. Hosted by Hendrik.
     
     * Difference in Differences example from Lab 3
 
