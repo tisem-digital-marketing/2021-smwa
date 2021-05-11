@@ -14,7 +14,8 @@ This book is a "go-to" for text analytics and will help you with the Lab:
 
 ## Video Lecture
 
-**Coming Tuesday**
+* [Slides][lecture-slides-04]
+* Videos as a [playlist](https://www.youtube.com/playlist?list=PL9QkA7C7GRGXJkG_ezG3YtI_9mfsn3g2V)
 
 ## Self-Guided Lab
 
@@ -24,7 +25,6 @@ This book is a "go-to" for text analytics and will help you with the Lab:
 # Quiz
 
 * [Link][quiz-04] to Quiz on Canvas
-    * *Posted on Tuesday*
     * **Due by 23.59 on 14 May 2021**
 
 [seiler]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2692861
@@ -33,3 +33,4 @@ This book is a "go-to" for text analytics and will help you with the Lab:
 
 [quiz-04]: https://tilburguniversity.instructure.com/courses/7508/quizzes
 [lab-04]: https://github.com/tisem-digital-marketing/smwa-lab-04
+[lecture-slides-04]: ../assets/lectures/week-04/week-04-slides.pdf
