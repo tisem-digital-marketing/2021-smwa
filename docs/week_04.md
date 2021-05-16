@@ -21,6 +21,8 @@ This book is a "go-to" for text analytics and will help you with the Lab:
 
 * [Link][lab-04] to GitHub repository 
     * Questions with an answer template contained in repo
+* [Partial Solution][lab-04-s]
+* [Code][demo-tidytext] from Lachlan's Discussion section
 
 # Quiz
 
@@ -33,4 +35,6 @@ This book is a "go-to" for text analytics and will help you with the Lab:
 
 [quiz-04]: https://tilburguniversity.instructure.com/courses/7508/quizzes
 [lab-04]: https://github.com/tisem-digital-marketing/smwa-lab-04
+[lab-04-s]: ../assets/labs/lab-04_solution.pdf
 [lecture-slides-04]: ../assets/lectures/week-04/week-04-slides.pdf
+[demo-tidytext]: https://github.com/tisem-digital-marketing/demo-tidytext-01
