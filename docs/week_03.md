@@ -19,7 +19,7 @@ Parts of these readings and themes from them will be covered in the video lectur
 * [Partial Solutions][lab-03-s]
 
 
-# Quiz
+## Quiz
 
 * [Link][quiz-03] to Quiz on Canvas
     * **Due by 23.59 on 7 May 2021**

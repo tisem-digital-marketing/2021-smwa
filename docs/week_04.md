@@ -24,7 +24,7 @@ This book is a "go-to" for text analytics and will help you with the Lab:
 * [Partial Solution][lab-04-s]
 * [Code][demo-tidytext] from Lachlan's Discussion section
 
-# Quiz
+## Quiz
 
 * [Link][quiz-04] to Quiz on Canvas
     * **Due by 23.59 on 14 May 2021**

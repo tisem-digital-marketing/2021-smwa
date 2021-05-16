@@ -24,7 +24,7 @@ This book is a "go-to" for text analytics and will help you with the Lab:
 * [Link][lab-05] to GitHub repository 
     * Questions with an answer template contained in repo
 
-# Quiz
+## Quiz
 
 * [Link][quiz-05] to Quiz on Canvas
     * Posted on Tuesday
