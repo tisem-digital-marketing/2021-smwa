@@ -26,13 +26,13 @@ There are two overarching objectives:
 
     **Zoom link for both sessions**: https://tilburguniversity.zoom.us/s/91547015125
 
-    **Discussion session 1** - Tuesday, May 11 at 12.45. Hosted by Lachlan.
+    **Discussion session 1** - Thursday, May 20 at 12.45. Hosted by Lachlan.
     
-    * Text Analytics Tools -- An Introduction
+    * Text Analytics Tools -- Sentiment and Topic Models
 
-    **Discussion session 2** - Wednesday, May 12 at 12.45. Hosted by Hendrik.
+    **Discussion session 2** - Friday, May 21 at 8.45. Hosted by Hendrik.
     
-    * Difference in Differences example from Lab 3
+    * Review of Lab 4
 
 :fontawesome-solid-exclamation-circle: [Course Syllabus](assets/syllabus.pdf)
 
