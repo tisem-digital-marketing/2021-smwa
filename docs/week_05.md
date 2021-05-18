@@ -16,8 +16,7 @@ This book is a "go-to" for text analytics and will help you with the Lab:
 ## Video Lecture
 
 * [Slides][lecture-slides-05]
-* Videos coming Monday evening
-<!-- * Videos as a [playlist](https://www.youtube.com/playlist?list=PL9QkA7C7GRGXJkG_ezG3YtI_9mfsn3g2V) -->
+* Videos as a [playlist](https://www.youtube.com/playlist?list=PL9QkA7C7GRGXTPHyyUtAsN7d9bEHx1pYL)
 
 ## Self-Guided Lab
 
