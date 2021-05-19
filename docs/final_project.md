@@ -16,7 +16,7 @@ Instructions on how to gain access to each milestone's template is available bel
 * Follow the instructions in the `README.md` & in `milestone-02.Rmd`  to work through the template.
 * Submission Deadline: 21 May 2021, 23:59 CEST
 
-## Milestone 2: Final Report & Video Presentation
+## Milestone 3: Final Report & Video Presentation
 
 * **Accept the invitation in this [link][milestone-03]**.
 * Follow the instructions in the `README.md`
