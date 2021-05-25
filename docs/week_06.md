@@ -10,8 +10,8 @@ Parts of these readings and themes from them will be covered in the video lectur
 ## Video Lecture
 
 * [Slides][lecture-slides-06]
-* Videos coming Tuesday
-<!-- * Videos as a [playlist](https://www.youtube.com/playlist?list=PL9QkA7C7GRGXTPHyyUtAsN7d9bEHx1pYL) -->
+<!-- * Videos coming Tuesday -->
+* Videos as a [playlist](https://www.youtube.com/playlist?list=PL9QkA7C7GRGXgdNurrsgBJwyY8d91PaMy)
 
 ## Self-Guided Lab
 
