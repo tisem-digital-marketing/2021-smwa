@@ -22,6 +22,7 @@ This book is a "go-to" for text analytics and will help you with the Lab:
 
 * [Link][lab-05] to GitHub repository 
     * Questions with an answer template contained in repo
+* [Partial Solutions][lab-05-s]
 
 ## Quiz
 
@@ -36,4 +37,5 @@ This book is a "go-to" for text analytics and will help you with the Lab:
 
 [quiz-05]: https://tilburguniversity.instructure.com/courses/7508/quizzes
 [lab-05]: https://github.com/tisem-digital-marketing/smwa-lab-05
+[lab-05-s]: ../assets/labs/lab-05_solution.pdf
 [lecture-slides-05]: ../assets/lectures/week-05/week-05-slides.pdf
