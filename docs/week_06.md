@@ -15,7 +15,7 @@ Parts of these readings and themes from them will be covered in the video lectur
 
 ## Self-Guided Lab
 
-* Link to GitHub repository 
+* [Link][lab-06] to GitHub repository 
     * Questions with an answer template contained in repo
     * Coming mid-week (for weeks 6 and 7)
 
