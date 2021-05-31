@@ -16,8 +16,8 @@ Parts of these readings and themes from them will be covered in the video lectur
 ## Self-Guided Lab
 
 * [Link][lab-06] to GitHub repository 
-    * Questions with an answer template contained in repo
-    * Coming mid-week (for weeks 6 and 7)
+* [Partial Solutions][lab-06-s]
+
 
 ## Quiz
 
@@ -30,4 +30,5 @@ Parts of these readings and themes from them will be covered in the video lectur
 
 [quiz-06]: https://tilburguniversity.instructure.com/courses/7508/quizzes
 [lab-06]: https://github.com/tisem-digital-marketing/smwa-lab-06
+[lab-06-s]: ../assets/labs/lab-06_solution.pdf
 [lecture-slides-06]: ../assets/lectures/week-06/week-06-slides.pdf
