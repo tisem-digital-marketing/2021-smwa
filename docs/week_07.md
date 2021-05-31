@@ -19,12 +19,12 @@ Parts of these readings and themes from them will be covered in the video lectur
 No new lab this week!
 
 ## Quiz
+<!-- * [Link][quiz-07] to Quiz on Canvas -->
 
 * Quiz on Canvas
-<!-- * [Link][quiz-07] to Quiz on Canvas -->
     * Posted on Tuesday
     * **Due by 23.59 on 4th of June 2021**
 
 [gordon]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3033144
 [gong]: https://dspace.mit.edu/handle/1721.1/120756
-[lovett]
+[lovett]: https://link.springer.com/article/10.1007/s11129-019-09211-9
