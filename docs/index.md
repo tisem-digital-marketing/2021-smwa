@@ -26,13 +26,13 @@ There are two overarching objectives:
 
     **Zoom link for both sessions**: https://tilburguniversity.zoom.us/s/91547015125
 
-    **Discussion session 1** - Thursday, May 20 at 12.45. Hosted by Lachlan.
+    **Discussion session 1** - Thursday, June 3 at 12.45. Hosted by Lachlan.
     
-    * Text Analytics Tools -- Sentiment and Topic Models
+    * Course Summary
 
-    **Discussion session 2** - Friday, May 21 at 8.45. Hosted by Hendrik.
+    **Discussion session 2** - Friday, June 4 at 8.45. Hosted by Hendrik.
     
-    * Review of Lab 4
+    * Review of Lab 6
 
 :fontawesome-solid-exclamation-circle: [Course Syllabus](assets/syllabus.pdf)
 
