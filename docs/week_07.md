@@ -10,9 +10,8 @@ Parts of these readings and themes from them will be covered in the video lectur
 
 ## Video Lecture
 
-<!-- * [Slides][lecture-slides-06] -->
-* Slides & Videos coming Tuesday
-<!-- * Videos as a [playlist](https://www.youtube.com/playlist?list=PL9QkA7C7GRGXgdNurrsgBJwyY8d91PaMy) -->
+* [Slides][lecture-slides-07]
+* Videos as a [playlist](https://www.youtube.com/playlist?list=PL9QkA7C7GRGV7IX9hxDS_xYRDX4_4-QOg)
 
 ## Self-Guided Lab
 
@@ -28,3 +27,5 @@ No new lab this week!
 [gordon]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3033144
 [gong]: https://dspace.mit.edu/handle/1721.1/120756
 [lovett]: https://link.springer.com/article/10.1007/s11129-019-09211-9
+
+[lecture-slides-07]: ../assets/lectures/week-07/week-07-slides.pdf
