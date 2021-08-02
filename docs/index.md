@@ -32,7 +32,6 @@ There are two overarching objectives:
     * **Lectures**: Pre-recorded Videos
     * **Self-Guided Tutorial**: Guided Coding Exercises with RMarkdown Documents
     * **Discussion Sections**: Live on Zoom
-        * See [here][live_sessions] for details
     * **Contact Us**: tisem.social.media@gmail.com
     * **Rules**: Participating in this course means abiding by our [Social Rules](../social_rules) and [Code of Conduct](../conduct).
 
