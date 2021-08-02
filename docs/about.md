@@ -13,7 +13,7 @@ His substantive research interests lie in social media and it's impact on media 
 
 In his spare time he enjoys strumming his ukulele, improving his caffe latte making skills and building Lego models.
 
-[**Sign Up to Lachlan's Office Hours**][calendly-lachlan]
+<!-- [**Sign Up to Lachlan's Office Hours**][calendly-lachlan] -->
 
 ## Hendrik De With
 
@@ -26,7 +26,7 @@ Those interests include general research methods, (social media) data analytics,
 His substantive interest are in access-based consumption, marketing in the sharing economy, and marketing and sustainability. 
 [Let’s connect on LinkedIn!](https://www.linkedin.com/in/h-de-with/)
 
-[**Sign Up to Hendrik's Office Hours**][calendly-hendrik]
+<!-- [**Sign Up to Hendrik's Office Hours**][calendly-hendrik] -->
 
 [calendly-hendrik]: https://calendly.com/h-j-c-dewith/15min
 [calendly-lachlan]: https://calendly.com/lachlan-deer/office-hours

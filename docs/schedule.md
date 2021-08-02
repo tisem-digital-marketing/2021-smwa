@@ -5,7 +5,6 @@
     * **Lectures**: Pre-recorded Videos
     * **Self-Guided Tutorial**: Guided Coding Exercises with RMarkdown Documents
     * **Discussion Sections**: Live on Zoom
-        * See [here][live_sessions] for details
 
 ## Schedule
 
